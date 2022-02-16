@@ -16,29 +16,13 @@ img{
 	left: 180px;
 }
 
-.nav-bar-li{
-	display: inline-block;
-	margin-right: 59px;
-	/*add fond*/
-	font-size: 12px;
-	position: absolute;
-}
 
-
-.nav-bar {
-	position: relative;
-	left: 20px;
-	top: 20px;
-	bottom: 20px;
-	right: 20px;
-}
 .span1{
 	margin-left: 180px;
 	margin-right: 1181px;
 	width: 79px;
 	height: 12px;
 	font-size: 11px;
-	
 	/*add font*/
 }
 .container{
@@ -48,8 +32,7 @@ img{
 	display: inline-block;
 	margin-right: 1063.67px;
 	margin-left: 289px;
-
-
+	margin-top: -100px;
 
 }
 h2{
@@ -61,6 +44,52 @@ h2{
 	padding-top: 8.79px;
 	padding-right: 15.33px;
 	padding-bottom: 7.21px;
-
 	/*add font*/
+}
+.top-text{
+	width: 616px;
+	height: 82px;
+	/*add font*/
+	margin-left: 180px;
+	margin-right: 644px;
+	font-size: 33px;
+	margin-top: 73px;
+}
+.bottom-text{
+	width: 1016px;
+	height: 157px;
+	font-size: 25px;
+	margin-left:180px ;
+	margin-right: 244px;
+	margin-top: 72px;
+
+}
+footer{
+	width: 168px;
+	height: 20px;
+	font-size: 14px;
+}
+
+.span1{
+	margin-left: 180px;
+	margin-right:1102px ;
+	width: 168px;
+	height: 20px;
+	font-size: 14px;
+	
+}
+.span2{
+	width: 168px;
+	height: 20px;
+	font-size: 14px;
+	margin-left: 428px;
+	margin-right: 968px;
+
+}
+.span3{
+	width: 168px;
+	height: 20px;
+	font-size: 14px;
+	margin-left: 562px;
+	margin-right:593px ;
 }
