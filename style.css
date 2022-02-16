@@ -38,7 +38,7 @@ img{
 	width: 79px;
 	height: 12px;
 	font-size: 11px;
-	margin-top: 15px;
+	
 	/*add font*/
 }
 .container{
@@ -48,7 +48,9 @@ img{
 	display: inline-block;
 	margin-right: 1063.67px;
 	margin-left: 289px;
-	margin-top: 15px;
+
+
+
 }
 h2{
 	width: 56px;
@@ -59,5 +61,6 @@ h2{
 	padding-top: 8.79px;
 	padding-right: 15.33px;
 	padding-bottom: 7.21px;
+
 	/*add font*/
 }
