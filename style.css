@@ -67,23 +67,21 @@ h2{
 }
 
 .span1{
-	margin-left: 180px;
-	margin-right:1102px ;
 	width: 168px;
 	height: 20px;
 	font-size: 14px;
 	color: gray;
-	
+	margin-left: 180px;
+
 	
 }
 .span2{
 	width: 168px;
 	height: 20px;
 	font-size: 14px;
-	margin-left: 428px;
-	margin-right: 968px;
-	color: gray;	
-
+	color: gray;
+	margin-left: 80px;
+	
 
 }
 
@@ -91,9 +89,9 @@ h2{
 	width: 168px;
 	height: 20px;
 	font-size: 14px;
-	margin-left: 562px;
-	margin-right:593px ;
 	color: gray;
+	margin-left: 80px;
+	
 }
 
 .picture-box{
