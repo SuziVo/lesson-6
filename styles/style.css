@@ -24,7 +24,8 @@ img{
 	height: 12px;
 	font-size: 11px;
 	color: black;
-	/*add font*/
+	font-family: 'Arial GEO Bold';
+	
 }
 .container{
 	width: 87.33px;
@@ -45,7 +46,7 @@ h2{
 	padding-top: 8.79px;
 	padding-right: 15.33px;
 	padding-bottom: 7.21px;
-	/*add font*/
+	font-family: 'Arial GEO Bold';
 }
 .top-text{
 	width: 616px;
@@ -55,6 +56,8 @@ h2{
 	margin-right: 644px;
 	font-size: 33px;
 	margin-top: 73px;
+	font-family: 'ArchyEDT-Bold';
+
 }
 .bottom-text{
 	width: 1016px;
@@ -63,6 +66,8 @@ h2{
 	margin-left:180px ;
 	margin-right: 244px;
 	margin-top: 72px;
+	font-family: 'ArchyEDT-Bold';
+	
 
 }
 
@@ -72,6 +77,7 @@ h2{
 	font-size: 14px;
 	color: gray;
 	margin-left: 180px;
+	font-family: 'Arial GEO Bold';
 
 	
 }
@@ -81,6 +87,7 @@ h2{
 	font-size: 14px;
 	color: gray;
 	margin-left: 80px;
+    font-family: 'Arial GEO Bold';
 	
 
 }
@@ -91,6 +98,7 @@ h2{
 	font-size: 14px;
 	color: gray;
 	margin-left: 80px;
+	font-family: 'Arial GEO Bold';
 	
 }
 
