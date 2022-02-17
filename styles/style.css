@@ -119,3 +119,141 @@ h2{
 	margin-left: 59px;
 
 }
+
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+  }
+  .background {
+	background-color: #f7f7f7;
+  }
+  .links{
+	margin: 0px 0 70px 180px;
+  }
+  .links a{
+	margin-left: 18px;
+	text-decoration: none;
+	color: rgb(252, 252, 252);
+	background-color: #0865DE;
+	padding: 10px;
+  }
+  .links a:hover{
+	color: rgb(0, 0, 0);
+	background:none;
+  }
+  .title {
+	font-size: 32px;
+	margin-left: 180px;
+	width: 616px;
+	color: #262626;
+	font-style: oblique;
+  }
+  .description {
+	margin: 72px 0 64px 180px;
+	color: #434343;
+	font-size: 25px;
+	width: 1016px;
+	letter-spacing: 1px;
+	line-height: 1.3;
+  }
+  
+  .blar {
+	margin-left: 180px;
+  }
+  .blar span {
+	color: #959595;
+	font-size: 14px;
+	margin-right: 90px;
+  }
+  .blar a {
+	font-size: 18px;
+	color: #959595;
+  }
+  
+  /* meinDiv:firstDiv littleDiv */
+  
+  .meinDiv {
+	margin-left: 180px;
+	margin-top: 120px;
+	/* align-items: center; */
+  }
+  .firstDiv {
+	display: inline-block;
+	margin-right: 30px;
+	padding: 60px;
+	width: 650px;
+	background-color: white;
+	color: #434343;
+	font-size: 18px;
+  }
+  .firstDiv h4 {
+	margin-bottom: 30px;
+	font-size: 25px;
+	color: #262626;
+	letter-spacing: 3px;
+  }
+  
+  .secondDiv {
+	position: relative;
+	bottom: 20px;
+	display: inline-block;
+	width: 300px;
+	background-color: white;
+	padding: 80px 30px;
+	color: #434343;
+	font-size: 18px;
+  }
+  .secondDiv h4 {
+	margin-bottom: 30px;
+	font-size: 25px;
+	color: #262626;
+	letter-spacing: 3px;
+  }
+  .thirdDiv {
+	display: inline-block;
+	margin-right: 30px;
+	padding: 60px;
+	width: 650px;
+	background-color: white;
+	color: #434343;
+	font-size: 18px;
+  }
+  .thirdDiv h4 {
+	margin-bottom: 30px;
+	font-size: 25px;
+	color: #262626;
+	letter-spacing: 3px;
+  }
+  .thirdDiv a {
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+	box-shadow:  1px 1px 4px rgb(94, 93, 93);
+	font-size: 12px;
+	
+  }
+  .thirdDiv a:hover{
+	  box-shadow: none;
+  }
+  .thirdDiv p {
+	  margin-top: 20px;
+  }
+  .Iconediv{
+	  position: relative;
+	  top: 22px;
+	  display: inline-block;
+	  background-color: white;
+	  text-align: center;
+	  padding: 33px ;
+	  width: 300px;
+  }
+  
+  .Iconediv img{
+	  border-radius: 50%;
+	  width: 30px;
+	  margin: 10px;
+	  height: 30px;
+  }
+  
