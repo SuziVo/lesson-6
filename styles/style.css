@@ -50,10 +50,9 @@ h2{
 	margin-bottom: 7.21px;
 	font-family: 'Arial GEO Bold';
 }
-.top-text{
+h3{
 	width: 616px;
 	height: 82px;
-	/*add font*/
 	margin-left: 180px;
 	margin-right: 644px;
 	font-size: 33px;
@@ -136,12 +135,15 @@ h2{
 	margin-left: 18px;
 	text-decoration: none;
 	color: rgb(252, 252, 252);
-	background-color: #0865DE;
+	background-color:blue;
 	padding: 10px;
   }
   .links a:hover{
 	color: rgb(0, 0, 0);
-	background:none;
+	background-color: whitesmoke;
+  }
+  .thematique{
+  	background-color: white;
   }
   .title {
 	font-size: 32px;
